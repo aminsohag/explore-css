@@ -1,0 +1,45 @@
+header{
+    height: 300px;
+    /* background-image:url('../image/grandma.jpg'); */
+    /* background-image: url('../image/strong.jpg'); */
+    background-image: url('../image/developer.png');
+    background-repeat:no-repeat; 
+    /* background-position: right; */
+    /* background-image:url("sky.jpg"); */
+    /* background-repeat:no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    /* background-size: 200px; */
+
+}
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family:'Courier New', Courier, monospace;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.blog{
+    margin: 20px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 20px green;
+}
+
+.adipisicing{
+    border: 2px solid purple;
+    margin: 20px;
+    display: inline-block;
+}
+li{
+    display: inline;
+}
+.dolor{
+    border: 2px solid peru;
+    height:40;
+    display:inline-block;
+}
+
